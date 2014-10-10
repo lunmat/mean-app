@@ -1,1 +1,5 @@
-.idea
+# NodeJS
+node_modules/
+
+# WebStorm
+.idea/
